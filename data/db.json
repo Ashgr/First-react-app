@@ -1,0 +1,25 @@
+{
+  "movies": [
+    {
+      "id": 2,
+      "name": "American Psycho",
+      "category": "Horror",
+      "snippet": "Blah Blah Blah Blah Blah Blah Blah ",
+      "director": "AshBonny"
+    },
+    {
+      "name": "123",
+      "snippet": "123",
+      "director": "123",
+      "category": "Action",
+      "id": 5
+    },
+    {
+      "name": "asd",
+      "snippet": "asdasd",
+      "director": "asdas",
+      "category": "Action",
+      "id": 6
+    }
+  ]
+}
